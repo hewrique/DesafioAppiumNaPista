@@ -15,7 +15,7 @@ ___
 Utilizando a estrutura pytest nós obtemos o esqueleto a seguir:
 
 ```
-NaPistaMain/
+NaPistaPyTest/
   pages/
       locators/
           login_locators.py
